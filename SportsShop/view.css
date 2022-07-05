@@ -1,0 +1,29 @@
+.title{
+    color: rgb(70, 110, 74);
+    font-size: 80px;
+    font-family: 'Rubik Moonrocks';
+    text-align: center;
+}
+
+.title2{
+    color: rgb(168, 63, 154);
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    text-align: center;
+    
+}
+
+.pLink{
+    text-align: center;
+    color: rgb(41, 127, 207);
+    font-family: 'Squada One';
+    font-size: 24px;
+}
+
+.pInfo{
+
+    text-align: center;
+    color: rgb(14, 87, 88);
+    font-family: 'Niconne';
+
+}
